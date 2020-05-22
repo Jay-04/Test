@@ -1,6 +1,7 @@
 # Description of Statistical-Learning-Method_Code (a repository)
 ## Overview
 > Statistcal-Learning-Method_Code created by Dod-o aims to show how to implement the algorithms in the book *Statistical Learning Method*
+>
 > The author makes as much annotation as possible in codes to make things clear
 
 ## Content
